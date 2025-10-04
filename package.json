@@ -1,0 +1,15 @@
+{
+  "name": "novalgo-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "express": "^4.19.2",
+    "pg": "^8.11.3",
+    "raw-body": "^2.5.2",
+    "stripe": "^16.0.0"
+  }
+}
